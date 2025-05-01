@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJAwaits
-- 👀 I’m interested in soccer, videogames, programming, machine learning, and data science.
-- 🌱 I’m currently learning application, design, and research!
+- 👀 I’m interested in sports, science, and programming.
+- 🌱 I’m currently physics!
 
 <!---
 DJAwaits/DJAwaits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
